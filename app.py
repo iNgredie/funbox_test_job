@@ -39,7 +39,6 @@ def visited_domains():
             unique_domains.append(gt)
     output['domains'] = unique_domains
     output["status"] = "OK"
-    print(domains_list)
     return jsonify(output)
 
 
