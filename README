@@ -1,0 +1,11 @@
+Press run to win
+
+Фреймворк Flask
+дополнительные модули:
+import redis - "База данных"
+import time - "Время для теста берется из модуля time"
+from tldextract import extract  - "Модуль для извлечения домена из ссылки"
+
+
+
+
